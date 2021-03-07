@@ -19,4 +19,4 @@ npm run serve -- --http2 --port=8081
 ```
 
 # Test Results
-<img src="./output/sw_perf.png" width = "500px" alt="SW Performance of Chrome and Firefox"/>
+<img src="./output/sw_perf.png" width = "600px" alt="SW Performance of Chrome and Firefox"/>
